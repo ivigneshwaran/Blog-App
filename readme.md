@@ -43,7 +43,7 @@
 # Note:
 * I use Cloud9 for my projects so i just uploaded the files only here!
 * You can find the node modules inside the zip file
-* Every file is inside the zip folder(you can downlod the zip file alone for the full project).
+* Every file is inside the zip (you can downlod the zip file alone for the full project).
 
 
-# Thnak You.
+# Thank You.
